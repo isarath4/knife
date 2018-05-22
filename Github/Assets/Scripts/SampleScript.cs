@@ -6,7 +6,8 @@ public class SampleScript : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		print("hello World");
+		print("hello fucking World");
+
 	}
 	
 	// Update is called once per frame
